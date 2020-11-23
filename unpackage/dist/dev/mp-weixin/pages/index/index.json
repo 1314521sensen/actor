@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "first": "/components/index/index",
+    "seachbox": "/components/index/seachbox",
+    "my": "/components/index/my"
+  }
+}

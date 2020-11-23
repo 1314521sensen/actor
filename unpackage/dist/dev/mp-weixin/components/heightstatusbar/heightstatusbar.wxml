@@ -1,0 +1,1 @@
+<view class="heightstatusbar data-v-e282ab8c"><text class="lg text-gray cuIcon-back jiantou data-v-e282ab8c" style="{{'color:'+(jiancolor)+';'}}"></text><block wx:if="{{title}}"><view class="barmidden data-v-e282ab8c" style="{{'color:'+(textcolor)+';'}}"><text class="data-v-e282ab8c">{{title}}</text></view></block></view>

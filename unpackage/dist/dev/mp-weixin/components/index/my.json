@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "heightstatusbar": "/components/heightstatusbar/heightstatusbar"
+  }
+}

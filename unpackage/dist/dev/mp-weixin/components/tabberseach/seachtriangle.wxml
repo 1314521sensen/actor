@@ -1,0 +1,1 @@
+<view class="seachtriangle data-v-5618a5dc"><text class="{{['lg text-gray seach_icon data-v-5618a5dc',routatebool?'seach_icon_rotate '+jianicon:jianicon]}}" style="{{'transform:'+('rotate('+rotatenum+'deg'+')')+';'}}"></text><block wx:if="{{title}}"><text class="seach_title data-v-5618a5dc">{{title}}</text></block></view>

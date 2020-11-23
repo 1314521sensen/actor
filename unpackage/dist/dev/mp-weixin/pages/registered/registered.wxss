@@ -1,0 +1,83 @@
+.registered_box.data-v-e75a6bf4 {
+  min-height: 100vh;
+  background-color: #101623;
+  color: #fff;
+}
+.registered_box .registered .registered_mdden.data-v-e75a6bf4 {
+  padding: 0 30rpx;
+  margin-top: 40rpx;
+}
+.registered_box .registered .registered_mdden .navlist.data-v-e75a6bf4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  background-color: rgba(255, 255, 255, 0.2);
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+}
+.registered_box .registered .registered_mdden .navlist .nav_text.data-v-e75a6bf4 {
+  font-size: 36rpx;
+  font-weight: 540;
+  padding: 30rpx 0;
+}
+.registered_box .registered .registered_mdden .navlist .nav_text-active.data-v-e75a6bf4 {
+  border-bottom: 5rpx solid #1795ff;
+}
+.registered_box .registered .registered_mdden .personal_registered.data-v-e75a6bf4 {
+  padding: 0 10rpx;
+}
+.registered_box .registered .registered_mdden .personal_registered .form .form-item.data-v-e75a6bf4 {
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 30rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
+  border-top: 0;
+  margin-top: 40rpx;
+}
+.registered_box .registered .registered_mdden .personal_registered .form .form-item .title.data-v-e75a6bf4 {
+  font-size: 34rpx;
+}
+.registered_box .registered .registered_mdden .personal_registered .form .form-item .inp.data-v-e75a6bf4 {
+  font-size: 30rpx;
+}
+.registered_box .registered .registered_mdden .personal_registered .form .agreement.data-v-e75a6bf4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 30rpx;
+  margin-top: 50rpx;
+}
+.registered_box .registered .registered_mdden .personal_registered .form .agreement .agreement_radius.data-v-e75a6bf4 {
+  width: 40rpx;
+  height: 40rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  font-size: 28rpx;
+  text-align: center;
+  line-height: 40rpx;
+  border: 2rpx solid #fff;
+}
+.registered_box .registered .registered_mdden .personal_registered .form .agreement .agreement_radius .dui.data-v-e75a6bf4 {
+  color: #fff;
+}
+.registered_box .registered .registered_mdden .personal_registered .form .agreement .agreement_radius_active.data-v-e75a6bf4 {
+  background-color: #1992ff;
+  border: 0;
+}
+.registered_box .registered .registered_mdden .personal_registered .form .agreement .agree.data-v-e75a6bf4 {
+  margin: 0 15rpx 0 10rpx;
+}
+.registered_box .registered .registered_mdden .personal_registered .form .agreement .useragree.data-v-e75a6bf4 {
+  color: #1992ff;
+}
+.registered_box .registered .registered_mdden .personal_registered .form .registered_btn.data-v-e75a6bf4 {
+  margin-top: 20rpx;
+}
+.registered_box .registered .registered_mdden .personal_registered .form .registered_btn button.data-v-e75a6bf4 {
+  width: 100%;
+  font-size: 34rpx;
+  letter-spacing: 0.2em;
+}
+

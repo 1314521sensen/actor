@@ -1,0 +1,17 @@
+.seachtriangle.data-v-5618a5dc {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 0 30rpx;
+  margin-top: 20rpx;
+}
+.seachtriangle .seach_icon.data-v-5618a5dc {
+  display: inline-block;
+  background-color: -webkit-linear-gradient(45deg, #f43f3b, #ec008c);
+  margin-right: 20rpx;
+}
+.seachtriangle .seach_title.data-v-5618a5dc {
+  font-size: 30rpx;
+  font-weight: bold;
+}
+

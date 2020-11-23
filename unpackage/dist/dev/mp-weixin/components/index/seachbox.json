@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "seachtriangle": "/components/tabberseach/seachtriangle"
+  }
+}
